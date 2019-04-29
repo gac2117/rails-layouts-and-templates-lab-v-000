@@ -1,6 +1,6 @@
 class StoreAdminController < ApplicationController
   layout "admin"
-  
+
   def home
 
   end
@@ -8,6 +8,6 @@ class StoreAdminController < ApplicationController
   def orders
   end
 
-  def invoice 
+  def invoice
   end
 end
